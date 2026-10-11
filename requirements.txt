@@ -1,0 +1,5 @@
+mcp==1.26.0
+PyMySQL==1.1.2
+python-dotenv==1.2.1
+sqlglot==28.10.1
+paramiko==3.5.1
